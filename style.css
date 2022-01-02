@@ -1,13 +1,15 @@
 body
 {
   font-family: 'Special Elite', cursive;
-  background: #d8a910;
+  background-size: cover;
+  background-position: center;
+ 
 }
 
 .header_div
   {
   background: white;
-  color: #0015cebd; 
+  color: #ce2700; 
   }
 
   .header_div p{
@@ -24,13 +26,13 @@ body
     font-weight: bolder;
     letter-spacing: 3px;
   }
-  .footer {
+  .copy_right_footer {
    position: fixed;
-   color: #ffffff;
+   color: #6c757d;
    bottom: 0;
    width: 100%;
    font-size: 18px;
-   background-color: #1613cf;
+   background-color: #f5f5f5;
    line-height: 3;
    text-align: center;
    text-shadow: 5px 5px 5px rgb(151, 149, 149);
